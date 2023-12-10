@@ -14,6 +14,10 @@
 
 ### Schema Dataset
 
-       |-- Train
-Dataset|-- Test
-       |-- Validation
+
+
+Dataset
+    |-- Train
+    |-- Test
+    |-- Validation
+      
