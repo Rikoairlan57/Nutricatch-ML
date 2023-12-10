@@ -2,12 +2,18 @@
 
 ### Library
 
+- tensorflow
 - numpy
 - pandas
 - pathlib
 - matplotlib
-- tensorflow
 - requests
 - PIL
 - io
 - os
+
+### Schema Dataset
+
+       |-- Train
+Dataset|-- Test
+       |-- Validation
