@@ -1,0 +1,15 @@
+﻿name: nutricatch
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.18
+  - numpy
+  - pandas
+  - pathlib
+  - matplotlib
+  - tensorflow
+  - requests
+  - PIL
+  - io
+  - os
