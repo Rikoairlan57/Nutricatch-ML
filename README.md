@@ -1,5 +1,13 @@
 # Nutricatch Model Machine Leaning With MobileNet V2
 
+```
+conda env create -f requirements.yml
+```
+
+```
+pip install -r requirements.yml
+```
+
 ### Library
 
 - tensorflow

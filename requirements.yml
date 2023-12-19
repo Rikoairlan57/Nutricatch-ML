@@ -1,4 +1,4 @@
-﻿name: nutricatch
+﻿name: myenv
 channels:
   - defaults
   - conda-forge
