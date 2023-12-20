@@ -8,6 +8,12 @@ conda env create -f requirements.yml
 pip install -r requirements.yml
 ```
 
+or
+
+```
+pip install -r requirements.txt
+```
+
 ### Library
 
 - tensorflow
