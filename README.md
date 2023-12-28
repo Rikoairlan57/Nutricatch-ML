@@ -38,5 +38,8 @@ Dataset
 Dataset Source :
 
 - Kaggle
+    https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
+    https://www.kaggle.com/datasets/faldoae/padangfood
+    https://www.kaggle.com/datasets/dansbecker/food-101
 - Google
 - Custome
